@@ -1,0 +1,1 @@
+g++ -o bomberman3D -framework glut -framework Cocoa -framework OpenGL -framework IOKit -framework CoreVideo main.cpp -I ./ -I ./externalLibrairies/glfw/include ./externalLibrairies/glfw/src/libglfw3.a
